@@ -5,3 +5,5 @@ nuevo parrafo
 hoy es viernes
 
 Hoy hablkaremos de su vida
+
+Mañana nos enfocaremos en su vida laboral
